@@ -1,9 +1,8 @@
 /*
-	This program executes that for a given date, determines which weekday (Monday through Sun-
+This program executes that for a given date, determines which weekday (Monday through Sun-
 day) the date corresponds to, and how many times the given day-and-month
 falls on the same weekday starting with the next year and ending on a given
 year. Zeller's congruence has been used for algorithm.
-
 */
 
 #include<stdio.h>
